@@ -4,3 +4,4 @@ function double(num)
 
 varx =2;
 double(x);
+print(x)
